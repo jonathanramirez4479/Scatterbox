@@ -1,0 +1,2 @@
+# Scatterbox
+Distributed file system
