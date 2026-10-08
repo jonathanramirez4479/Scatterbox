@@ -1,2 +1,2 @@
 # Scatterbox
-Distributed file system
+Network file system
